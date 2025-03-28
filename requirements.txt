@@ -1,3 +1,5 @@
+First need to install this things in python project
+
 tensorflow
 numpy
 pandas
